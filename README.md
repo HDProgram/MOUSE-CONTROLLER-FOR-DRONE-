@@ -43,5 +43,6 @@ clean_exit():
 Ensures a clean exit by disarming and disconnecting the drone.
 Main Loop:
 
-Initiates the listener thread and maintains the main loop until a keyboard interrupt is caught.
+Initiates the listener thread and maintains the main loop until a keyboard interrupt is caught. be (Ctrl+C)
+
 
